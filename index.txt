@@ -1,0 +1,144 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Nur Rahmat Hidayat
+Nur Rahmat Hidayat
+Programmer
+
+Show Contacts
+
+Email
+neurrochmat6@gmail.com
+
+Phone
++62 82135643630
+
+Birthday
+March 23, 2005
+
+Location
+Semarang City, Central Java, Indonesia
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+👋 Hello there! My name is Nur Rahmat Hidayat and I'm originally from the vibrant city of Banyumas, Central Java.Currently, I'm pursuing my higher education journey at the Politeknik Negeri Semarang.
+
+I am passionate about technology and its role in shaping the future, which led me to major in Informatics Engineering.
+
+## service
+
+What i'm doing
+
+alt = Web development icon
+Web development
+I build responsive and efficient websites using modern technologies, focusing on user experience, performance, and maintainability.
+
+alt = mobile app icon
+Mobile apps
+Development of applications for iOS and Android.
+
+alt = gamer icon
+Gamer
+Playing various types of games from different genres for fun.
+
+# resume
+
+Resume
+
+Education
+
+State Polytechnic of Semarang
+2023 — Now
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+State Senior High School 1 Wangon
+2020 — 2023
+Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+
+State Junior High School 2 Wangon
+2017 — 2020
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experience
+
+Web Developer
+2025
+Designing and creating a website application for school attendance system with face recognition.
+
+Game Developer
+2025
+Created the game 'Sakarepe Dewek'. The game contains 3 mini games namely Heroes Knowledge, Paimon Pingpong, and Apa Hayoo?!
+
+Application Developer
+2010 — 2013
+Designing and creating a field marketplace application for renting futsal and badminton courts
+
+My skills
+
+Web dev
+80%
+App dev
+60%
+Game dev
+70%
+Public Speaking
+70%
+Leadership
+80%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web development
+Applications
+Game development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = arena_connect
+Arena Connect
+Applications
+
+alt = sakarepe_dewek
+Sakarepe Dewek
+Game development
+
+alt = sismo
+Sismo
+Web development
+
+alt = birthday_letter
+Birthday Letter
+Web development
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
